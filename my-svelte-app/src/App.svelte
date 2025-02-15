@@ -168,8 +168,8 @@
     }
 
     .cell {
-        width: {CELL_SIZE}px;
-        height: {CELL_SIZE}px;
+        width: 20px;
+        height: 20px;
         background-color: #2c3e50;
         transition: background-color 0.1s;
     }
